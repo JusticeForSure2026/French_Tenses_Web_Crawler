@@ -16,7 +16,7 @@ Included French tenses:
 * Conditionnel présent
 * Conditionnel passé
 
-So far the list contains 1438 verbs:
+So far the list contains 1453 verbs:
 * 📥 Download <code>Temps En Français.xlsx</code>
 * 🔍 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1cSIoTTrL9Fp04fNLShWpSGYkY3c1N6_8/edit?usp=sharing&ouid=103784546795909129609&rtpof=true&sd=true
 
