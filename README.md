@@ -28,5 +28,5 @@ How to run the program:
 2. Execute <code>main.py</code>
 3. Result will be output in Microsoft Excel format as <code>Output.xlsx</code>
 
-## Utility
-The result can be used in Text-to-Speech applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS
+## Text-to-Speech
+The result can be used in TTS applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS
