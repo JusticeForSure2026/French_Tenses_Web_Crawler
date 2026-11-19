@@ -29,4 +29,4 @@ How to run the program:
 3. Result will be output in Microsoft Excel format as <code>Output.xlsx</code>
 
 ## Text-to-Speech
-The result can be used in TTS applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS
+The result can be used in TTS applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS_Advanced
